@@ -24,4 +24,6 @@ This project was created and published by me as part of my learnings at Lighthou
     pg: 8.9.0
 
 ## Screenshots
-
+https://github.com/jalejandroveraloza/LightBnB/blob/master/docs/log-in%20page.png
+https://github.com/jalejandroveraloza/LightBnB/blob/master/docs/main-page.png
+https://github.com/jalejandroveraloza/LightBnB/blob/master/docs/search-function.png
